@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Survivor.dir/link.d CMakeFiles/Survivor.dir/src/main.cpp.o CMakeFiles/Survivor.dir/src/Game.cpp.o CMakeFiles/Survivor.dir/src/Player.cpp.o -o Survivor  /usr/lib/libraylib.so.6.0.0 -lm
