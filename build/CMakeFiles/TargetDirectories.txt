@@ -1,3 +1,0 @@
-/home/aniket/Desktop/c++/survive.io/build/CMakeFiles/Survivor.dir
-/home/aniket/Desktop/c++/survive.io/build/CMakeFiles/edit_cache.dir
-/home/aniket/Desktop/c++/survive.io/build/CMakeFiles/rebuild_cache.dir
