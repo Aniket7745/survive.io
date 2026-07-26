@@ -1,5 +1,5 @@
 #pragma once
-
+#include "Player.h"
 class Game {
 public:
   Game();
@@ -15,4 +15,5 @@ private:
 private:
   const int screenWidth = 1280;
   const int screenHeight = 720;
+  Player player;
 };
